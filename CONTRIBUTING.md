@@ -17,10 +17,6 @@ To get started with contributing, follow these steps:
 3. Make your changes and commit them.
 4. Submit a pull request, describing your changes and why they should be merged.
 
-## Reporting Issues
-
-If you encounter a bug or have a suggestion for improvement, please open an issue on our [issue tracker](https://github.com/organization/project/issues) before creating a pull request. Make sure to include as much detail as possible, including steps to reproduce the issue.
-
 ## Code Review Process
 
 All pull requests will be reviewed by one or more maintainers. We aim to provide feedback within a timely manner. Please be patient during the review process, and feel free to address any comments or concerns raised by the reviewers.
